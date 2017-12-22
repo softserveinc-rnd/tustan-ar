@@ -6,6 +6,8 @@ How we made it: [Article](./Tustan%20AR%20Matching.md)
 
 Links: [Play Market](https://play.google.com/store/apps/details?id=com.softserve.tustanar), [App Store](https://itunes.apple.com/ua/app/tustanar/id1283043687?mt=8)
 
+<img src="./article-src/Point_1.jpeg" style="max-width: 768px" alt="Two big stones on the top of hill.">
+
 ## Requirements
 
 #### App tested on
@@ -39,6 +41,8 @@ For previous Unity versions you must download Vuforia manually from Vuforia [web
 
 Now you can build and run the project!
 
+(By the way, you can test the app, pointing phone camera to the image above. :))
+
 ### Enable iOS plugin
 
 This is a hack which enables native behavior on iOS platform. Fix is impossible due to Objective-C language features.
@@ -55,6 +59,10 @@ This is a hack which enables native behavior on iOS platform. Fix is impossible 
 1. Go to `Assets/Plugins/iOS/` folder in your project.
 2. Сomment last line in the file `VuforiaNativeRendererController.mm`(add to slashes in the beginning of `IMPL_APP_CONTROLLER_SUBCLASS(VuforiaNativeRendererController)`)
 3. You're done!
+
+### Rebuild Android plugin
+
+If you want to rebuild Android plugin (`/plugin` folder in repository root), you must find `classes.jar` file, provided with Unity ([how to find](https://docs.unity3d.com/Manual/AndroidUnityPlayerActivity.html)), and copy that file to the Android project.
 
 ### Texture quality
 
