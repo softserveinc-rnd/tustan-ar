@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{51353E3A-C5FB-6C0E-0606-888E60B7B19E}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Loading.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Locale/LocalizationManager.cs" Line="21" Column="10" />
+      <File FileName="Assets/Scripts/Loading.cs" Line="26" Column="10" />
+      <File FileName="Assets/Keystore/README.txt" Line="3" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AR__TUSTAN PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

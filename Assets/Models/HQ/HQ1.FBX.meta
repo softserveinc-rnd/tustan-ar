@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: 3baaca323ae4f5547be247dd577ff1bb
+timeCreated: 1489419194
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: _5_dah_konst
+    100002: _5_dah_konst_MeshPart0
+    100004: _5_dah_konst_MeshPart1
+    100006: _5_perekruttja_konst
+    100008: _5_perekruttya
+    100010: _5_perekruttya_MeshPart0
+    100012: _5_perekruttya_MeshPart1
+    100014: _5_perekruttya_MeshPart2
+    100016: _5_ploshcadka
+    100018: _5_Shody
+    100020: big_fin
+    100022: big_fin_MeshPart0
+    100024: big_fin_MeshPart1
+    100026: bridge1
+    100028: center_land
+    100030: center_land_MeshPart0
+    100032: center_land_MeshPart1
+    100034: dno_ozera
+    100036: //RootNode
+    100038: kamin_fin
+    100040: polymsh
+    100042: polymsh 1
+    100044: polymsh 1_MeshPart0
+    100046: polymsh 1_MeshPart1
+    100048: polymsh 1_MeshPart2
+    100050: polymsh 2
+    100052: polymsh 3
+    100054: polymsh1
+    100056: polymsh1 1
+    100058: polymsh1_MeshPart0
+    100060: polymsh1_MeshPart1
+    100062: polymsh1_MeshPart2
+    100064: polymsh1_MeshPart3
+    100066: polymsh_detached
+    100068: polymsh_detached 1
+    100070: polymsh_detached 1_MeshPart0
+    100072: polymsh_detached 1_MeshPart1
+    100074: polymsh_detached7
+    100076: polymsh_detached8
+    100078: polymsh_detached8_MeshPart0
+    100080: polymsh_detached8_MeshPart1
+    100082: polymsh_detached_MeshPart0
+    100084: polymsh_detached_MeshPart1
+    100086: polymsh_detached_MeshPart2
+    100088: polymsh_detached_MeshPart3
+    100090: polymsh_MeshPart0
+    100092: polymsh_MeshPart1
+    100094: polymsh_MeshPart2
+    100096: polymsh_MeshPart3
+    100098: polymsh_MeshPart4
+    100100: polymsh_MeshPart5
+    100102: polymsh_MeshPart6
+    100104: polymsh_MeshPart7
+    100106: polymsh_MeshPart8
+    100108: polymsh_MeshPart9
+    100110: roof
+    100112: roof_MeshPart0
+    100114: roof_MeshPart1
+    100116: roof_MeshPart2
+    100118: roof_MeshPart3
+    100120: roof_MeshPart4
+    100122: roof_MeshPart5
+    100124: roof_MeshPart6
+    100126: roof_MeshPart7
+    100128: roof_MeshPart8
+    100130: small_fin
+    100132: polymsh1 1_MeshPart0
+    100134: polymsh1 1_MeshPart1
+    100136: polymsh1 1_MeshPart2
+    100138: polymsh1 1_MeshPart3
+    100140: polymsh_detached 1_MeshPart2
+    100142: polymsh_detached 1_MeshPart3
+    400000: _5_dah_konst
+    400002: _5_dah_konst_MeshPart0
+    400004: _5_dah_konst_MeshPart1
+    400006: _5_perekruttja_konst
+    400008: _5_perekruttya
+    400010: _5_perekruttya_MeshPart0
+    400012: _5_perekruttya_MeshPart1
+    400014: _5_perekruttya_MeshPart2
+    400016: _5_ploshcadka
+    400018: _5_Shody
+    400020: big_fin
+    400022: big_fin_MeshPart0
+    400024: big_fin_MeshPart1
+    400026: bridge1
+    400028: center_land
+    400030: center_land_MeshPart0
+    400032: center_land_MeshPart1
+    400034: dno_ozera
+    400036: //RootNode
+    400038: kamin_fin
+    400040: polymsh
+    400042: polymsh 1
+    400044: polymsh 1_MeshPart0
+    400046: polymsh 1_MeshPart1
+    400048: polymsh 1_MeshPart2
+    400050: polymsh 2
+    400052: polymsh 3
+    400054: polymsh1
+    400056: polymsh1 1
+    400058: polymsh1_MeshPart0
+    400060: polymsh1_MeshPart1
+    400062: polymsh1_MeshPart2
+    400064: polymsh1_MeshPart3
+    400066: polymsh_detached
+    400068: polymsh_detached 1
+    400070: polymsh_detached 1_MeshPart0
+    400072: polymsh_detached 1_MeshPart1
+    400074: polymsh_detached7
+    400076: polymsh_detached8
+    400078: polymsh_detached8_MeshPart0
+    400080: polymsh_detached8_MeshPart1
+    400082: polymsh_detached_MeshPart0
+    400084: polymsh_detached_MeshPart1
+    400086: polymsh_detached_MeshPart2
+    400088: polymsh_detached_MeshPart3
+    400090: polymsh_MeshPart0
+    400092: polymsh_MeshPart1
+    400094: polymsh_MeshPart2
+    400096: polymsh_MeshPart3
+    400098: polymsh_MeshPart4
+    400100: polymsh_MeshPart5
+    400102: polymsh_MeshPart6
+    400104: polymsh_MeshPart7
+    400106: polymsh_MeshPart8
+    400108: polymsh_MeshPart9
+    400110: roof
+    400112: roof_MeshPart0
+    400114: roof_MeshPart1
+    400116: roof_MeshPart2
+    400118: roof_MeshPart3
+    400120: roof_MeshPart4
+    400122: roof_MeshPart5
+    400124: roof_MeshPart6
+    400126: roof_MeshPart7
+    400128: roof_MeshPart8
+    400130: small_fin
+    400132: polymsh1 1_MeshPart0
+    400134: polymsh1 1_MeshPart1
+    400136: polymsh1 1_MeshPart2
+    400138: polymsh1 1_MeshPart3
+    400140: polymsh_detached 1_MeshPart2
+    400142: polymsh_detached 1_MeshPart3
+    2300000: _5_dah_konst_MeshPart0
+    2300002: _5_dah_konst_MeshPart1
+    2300004: _5_perekruttja_konst
+    2300006: _5_perekruttya_MeshPart0
+    2300008: _5_perekruttya_MeshPart1
+    2300010: _5_perekruttya_MeshPart2
+    2300012: _5_ploshcadka
+    2300014: _5_Shody
+    2300016: big_fin_MeshPart0
+    2300018: big_fin_MeshPart1
+    2300020: bridge1
+    2300022: center_land_MeshPart0
+    2300024: center_land_MeshPart1
+    2300026: dno_ozera
+    2300028: kamin_fin
+    2300030: polymsh 1_MeshPart0
+    2300032: polymsh 1_MeshPart1
+    2300034: polymsh 1_MeshPart2
+    2300036: polymsh1_MeshPart0
+    2300038: polymsh1_MeshPart1
+    2300040: polymsh1_MeshPart2
+    2300042: polymsh1_MeshPart3
+    2300044: polymsh_detached 1_MeshPart0
+    2300046: polymsh_detached 1_MeshPart1
+    2300048: polymsh_detached7
+    2300050: polymsh_detached8_MeshPart0
+    2300052: polymsh_detached8_MeshPart1
+    2300054: polymsh_detached_MeshPart0
+    2300056: polymsh_detached_MeshPart1
+    2300058: polymsh_detached_MeshPart2
+    2300060: polymsh_detached_MeshPart3
+    2300062: polymsh_MeshPart0
+    2300064: polymsh_MeshPart1
+    2300066: polymsh_MeshPart2
+    2300068: polymsh_MeshPart3
+    2300070: polymsh_MeshPart4
+    2300072: polymsh_MeshPart5
+    2300074: polymsh_MeshPart6
+    2300076: polymsh_MeshPart7
+    2300078: polymsh_MeshPart8
+    2300080: polymsh_MeshPart9
+    2300082: roof_MeshPart0
+    2300084: roof_MeshPart1
+    2300086: roof_MeshPart2
+    2300088: roof_MeshPart3
+    2300090: roof_MeshPart4
+    2300092: roof_MeshPart5
+    2300094: roof_MeshPart6
+    2300096: roof_MeshPart7
+    2300098: roof_MeshPart8
+    2300100: small_fin
+    2300102: polymsh1 1_MeshPart0
+    2300104: polymsh1 1_MeshPart1
+    2300106: polymsh1 1_MeshPart2
+    2300108: polymsh1 1_MeshPart3
+    2300110: polymsh_detached 1_MeshPart2
+    2300112: polymsh_detached 1_MeshPart3
+    3300000: _5_dah_konst_MeshPart0
+    3300002: _5_dah_konst_MeshPart1
+    3300004: _5_perekruttja_konst
+    3300006: _5_perekruttya_MeshPart0
+    3300008: _5_perekruttya_MeshPart1
+    3300010: _5_perekruttya_MeshPart2
+    3300012: _5_ploshcadka
+    3300014: _5_Shody
+    3300016: big_fin_MeshPart0
+    3300018: big_fin_MeshPart1
+    3300020: bridge1
+    3300022: center_land_MeshPart0
+    3300024: center_land_MeshPart1
+    3300026: dno_ozera
+    3300028: kamin_fin
+    3300030: polymsh 1_MeshPart0
+    3300032: polymsh 1_MeshPart1
+    3300034: polymsh 1_MeshPart2
+    3300036: polymsh1_MeshPart0
+    3300038: polymsh1_MeshPart1
+    3300040: polymsh1_MeshPart2
+    3300042: polymsh1_MeshPart3
+    3300044: polymsh_detached 1_MeshPart0
+    3300046: polymsh_detached 1_MeshPart1
+    3300048: polymsh_detached7
+    3300050: polymsh_detached8_MeshPart0
+    3300052: polymsh_detached8_MeshPart1
+    3300054: polymsh_detached_MeshPart0
+    3300056: polymsh_detached_MeshPart1
+    3300058: polymsh_detached_MeshPart2
+    3300060: polymsh_detached_MeshPart3
+    3300062: polymsh_MeshPart0
+    3300064: polymsh_MeshPart1
+    3300066: polymsh_MeshPart2
+    3300068: polymsh_MeshPart3
+    3300070: polymsh_MeshPart4
+    3300072: polymsh_MeshPart5
+    3300074: polymsh_MeshPart6
+    3300076: polymsh_MeshPart7
+    3300078: polymsh_MeshPart8
+    3300080: polymsh_MeshPart9
+    3300082: roof_MeshPart0
+    3300084: roof_MeshPart1
+    3300086: roof_MeshPart2
+    3300088: roof_MeshPart3
+    3300090: roof_MeshPart4
+    3300092: roof_MeshPart5
+    3300094: roof_MeshPart6
+    3300096: roof_MeshPart7
+    3300098: roof_MeshPart8
+    3300100: small_fin
+    3300102: polymsh1 1_MeshPart0
+    3300104: polymsh1 1_MeshPart1
+    3300106: polymsh1 1_MeshPart2
+    3300108: polymsh1 1_MeshPart3
+    3300110: polymsh_detached 1_MeshPart2
+    3300112: polymsh_detached 1_MeshPart3
+    4300000: polymsh_detached_MeshPart0
+    4300002: polymsh_detached_MeshPart1
+    4300004: polymsh_detached_MeshPart2
+    4300006: polymsh_detached_MeshPart3
+    4300008: polymsh_MeshPart0
+    4300010: polymsh_MeshPart1
+    4300012: polymsh_MeshPart2
+    4300014: polymsh_MeshPart3
+    4300016: polymsh_MeshPart4
+    4300018: polymsh_MeshPart5
+    4300020: polymsh_MeshPart6
+    4300022: polymsh_MeshPart7
+    4300024: polymsh_MeshPart8
+    4300026: polymsh_MeshPart9
+    4300028: _5_ploshcadka
+    4300030: _5_dah_konst_MeshPart0
+    4300032: _5_dah_konst_MeshPart1
+    4300034: _5_Shody
+    4300036: _5_perekruttja_konst
+    4300038: _5_perekruttya_MeshPart0
+    4300040: _5_perekruttya_MeshPart1
+    4300042: _5_perekruttya_MeshPart2
+    4300044: polymsh_MeshPart0
+    4300046: polymsh_MeshPart1
+    4300048: polymsh_MeshPart2
+    4300050: polymsh_detached_MeshPart0
+    4300052: polymsh_detached_MeshPart1
+    4300054: polymsh_detached7
+    4300056: polymsh_detached8_MeshPart0
+    4300058: polymsh_detached8_MeshPart1
+    4300060: roof_MeshPart0
+    4300062: roof_MeshPart1
+    4300064: roof_MeshPart2
+    4300066: roof_MeshPart3
+    4300068: roof_MeshPart4
+    4300070: roof_MeshPart5
+    4300072: roof_MeshPart6
+    4300074: roof_MeshPart7
+    4300076: roof_MeshPart8
+    4300078: bridge1
+    4300080: polymsh1_MeshPart0
+    4300082: polymsh1_MeshPart1
+    4300084: polymsh1_MeshPart2
+    4300086: polymsh1_MeshPart3
+    4300088: small_fin
+    4300090: big_fin_MeshPart0
+    4300092: big_fin_MeshPart1
+    4300094: kamin_fin
+    4300096: dno_ozera
+    4300098: center_land_MeshPart0
+    4300100: center_land_MeshPart1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

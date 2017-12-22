@@ -1,0 +1,168 @@
+{
+    "items":[
+        {
+            "key": "lang",
+            "value": "en"
+        },
+        {
+            "key": "starting",
+            "value": "Starting..."
+        },
+        {
+            "key": "ar_points_location",
+            "value": "AR Points Location"
+        },
+        {
+            "key": "intro_title",
+            "value": "Intro"
+        },
+        {
+            "key": "toast_marker_name",
+            "value": "Marker"
+        },
+        {
+            "key": "screenshot_captured",
+            "value": "Screenshot has been saved. Share?"
+        },
+        {
+            "key": "look_up",
+            "value": "Look up!"
+        },
+        {
+            "key": "hide_model_button",
+            "value": "Hide"
+        },
+        {
+            "key": "feature_not_supported",
+            "value": "This feature is not supported on your device :("
+        },
+        {
+            "key": "gps_disabled",
+            "value": "GPS is disabled. Please, enable it in Settings."
+        },
+        {
+            "key": "share_image_using",
+            "value": "Share image using"
+        },
+        {
+            "key": "ok",
+            "value": "OK"
+        },
+        {
+            "key": "share_play_store",
+            "value": "TustanAR app on Play Store:"
+        },
+        {
+            "key": "rock_fortress_city_tustan",
+            "value": "Rock Fortress City Tustan"
+        },
+        {
+            "key": "screenshot_error_ios",
+            "value": "Please go to Settings/TustanAR/Photos and give permission for photos saving."
+        },
+        {
+            "key": "crossplatform_notification_title",
+            "value": "You entered marker"
+        },
+        {
+            "key": "crossplatform_notification_message",
+            "value": "Tap to open app"
+        },
+        {
+            "key": "info_window_subtitle",
+            "value": "Place of the ancient greatness and power of Ukraine."
+        },
+        {
+            "key": "info_window_content_title_part1",
+            "value": "ANCIENT"
+        },
+        {
+            "key": "info_window_content_subtitle_part1",
+            "value": "Hollowed stone grooves"
+        },
+        {
+            "key": "info_window_content_body_part1",
+            "value": "The Urych rocks are 55 million years old. During the 9th-16th centuries, there was a town on rocks – Tustan fortress. This strategic point of the Carpathian defensive line was a combined customs, administrative and military center. Fortifications were constructed on Kamin Rock, Ostryi Kamin and Mala Skelya. Wooden constructions of the castle were fixed in hollowed stone grooves. The building is no longer preserved, but thanks to the marks it is possible to recreate the authentic fortress."
+        },
+        {
+            "key": "info_window_content_title_part2",
+            "value": "SCIENTIFIC"
+        },
+        {
+            "key": "info_window_content_subtitle_part2",
+            "value": "graphic reconstruction of the fortress by Mykhaylo Rozhko"
+        },
+        {
+            "key": "info_window_content_body_part2",
+            "value": "The scientific research of Tustan was initiated by Mykhailo Rozhko about forty years ago. In Tustan the famous Ukrainian researcher discovered a unique type of fortification which has no analogues in the world. Nowadays, due to modern computer technologies it is possible to do laser scanning of rocks and 3-D modeling of the fortress, create the geo-informational system of Tustan. Archeological research and reconstruction of medieval weapons take place here as well."
+        },
+        {
+            "key": "info_window_content_title_part3",
+            "value": "NATURAL"
+        },
+        {
+            "key": "info_window_content_subtitle_part3",
+            "value": "a natural amphitheater"
+        },
+        {
+            "key": "info_window_content_body_part3",
+            "value": "Tustan is located near the village of Urych, in a natural amphitheater formed by opposite slopes of mountain ridges. They created a marvelous valley where the picturesque river Urychanka flows. In a warm season, Tustan becomes more secluded thanks to the shade of mixed woods, and in autumn the trees paint the scenery with magical palette."
+        },
+        {
+            "key": "intro_subtitle",
+            "value": "Please go through small introduction."
+        },
+        {
+            "key": "start",
+            "value": "Start"
+        },
+        {
+            "key": "close",
+            "value": "Close"
+        },
+        {
+            "key": "hide",
+            "value": "Hide"
+        },
+        {
+            "key": "skip",
+            "value": "Skip"
+        },
+        {
+            "key": "next",
+            "value": "Next"
+        },
+        {
+            "key": "never_ask_again",
+            "value": "Never ask again"
+        },
+        {
+            "key": "intro_part1",
+            "value": "1/4: We have 5 places for you to explore Augmented Reality. You can see them on the map."
+        },
+        {
+            "key": "intro_part2",
+            "value": "2/4: To watch castle please stay near the column with point name and bring your phone up to the stones."
+        },
+        {
+            "key": "intro_part3",
+            "value": "3/4: You can use additional features: front camera, photo capturing and animation (if available)."
+        },
+        {
+            "key": "intro_part4",
+            "value": "4/4: Also you can try app on images from store."
+        },
+        {
+            "key": "photo_captured",
+            "value": "Photo captured"
+        },
+        {
+            "key": "share",
+            "value": "Share"
+        },
+        {
+            "key": "save",
+            "value": "Save"
+        }
+    ]
+}

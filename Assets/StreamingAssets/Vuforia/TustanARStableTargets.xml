@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Point6_OnSite7_iPhone_Summer_Day_Sunny_scaled_resized" size="1.000000 0.562500" />
+    <ImageTarget name="Point5_OnSite7_iPhone_Summer_Morning_Sunny_scaled_resized" size="1.000000 0.562500" />
+    <ImageTarget name="Point5_OnSite7_iPhone_Summer_Day_Sunny_scaled_resized" size="1.000000 0.562500" />
+    <ImageTarget name="Point3_OnSite7_iPhone_Summer_Day_Sunny_scaled_resized" size="1.000000 0.562500" />
+    <ImageTarget name="Multi1_OnSite7_iPhone_Summer_Day_Sunny_scaled_resized" size="1.000000 0.562500" />
+    <ImageTarget name="Point_6_11_20170802_125210_summer_underexposed" size="1.000000 0.562500" />
+    <ImageTarget name="Point_6_10_20170802_125204_summer_overexposed" size="1.000000 0.562500" />
+    <ImageTarget name="Point_6_9_20170802_125200_summer_sunny" size="1.000000 0.562500" />
+    <ImageTarget name="Point_10_synthetic_chappel" size="1.000000 0.562500" />
+    <ImageTarget name="Point_9_tshirt1" size="1.000000 2.533679" />
+    <ImageTarget name="Point_3_6_20170706_190350" size="1.000000 0.562500" />
+    <ImageTarget name="Point_7_6_20170706_120954_summer_mainly_cloudy" size="1.000000 0.562500" />
+    <ImageTarget name="Point_7_5_20170706_163435_summer_clouds" size="1.000000 0.562500" />
+    <ImageTarget name="Point_7_4_20170706_200920_summer_sunny" size="1.000000 0.562500" />
+    <ImageTarget name="Point_7_3_20170614_120354_summer_clouds" size="1.000000 0.562500" />
+    <ImageTarget name="Point_7_2_20170614_114312_summer_sunny" size="1.000000 0.562500" />
+    <ImageTarget name="Point_7_1_20170407_134636" size="1.000000 0.562500" />
+    <ImageTarget name="Point_6_8_20170706_201900" size="1.000000 0.562500" />
+    <ImageTarget name="Point_6_7_20170706_193736" size="1.000000 0.562500" />
+    <ImageTarget name="Point_6_6_20170706_185341" size="1.000000 0.562500" />
+    <ImageTarget name="Point_6_5_20170706_180538" size="1.000000 0.562500" />
+    <ImageTarget name="Point_6_4_20170706_180448" size="1.000000 0.562500" />
+    <ImageTarget name="Point_6_1_20170706_133806" size="1.000000 0.562500" />
+    <ImageTarget name="Point_5_9_20170706_200417" size="1.000000 0.562500" />
+    <ImageTarget name="Point_5_8_20170706_193531" size="1.000000 0.562500" />
+    <ImageTarget name="Point_5_7_20170706_185020" size="1.000000 0.562500" />
+    <ImageTarget name="Point_5_6_20170706_180801" size="1.000000 0.562500" />
+    <ImageTarget name="Point_5_5_20170706_162628" size="1.000000 0.562500" />
+    <ImageTarget name="Point_5_4_20170706_131847" size="1.000000 0.562500" />
+    <ImageTarget name="Point_5_3_20170706_112915" size="1.000000 0.562500" />
+    <ImageTarget name="Point_5_2_20170706_202050" size="1.000000 0.562500" />
+    <ImageTarget name="Point_5_1_20170614_1523_OnSite3" size="1.000000 0.562500" />
+    <ImageTarget name="Point_3_7_20170706_194603" size="1.000000 0.562500" />
+    <ImageTarget name="Point_3_4_20170706_150530" size="1.000000 0.562500" />
+    <ImageTarget name="Point_3_3_20170706_132935" size="1.000000 0.562500" />
+    <ImageTarget name="Point_3_2_20170706_120244" size="1.000000 0.562500" />
+    <ImageTarget name="Point_3_1_20170706_201208" size="1.000000 0.562500" />
+    <ImageTarget name="Point_2_4_20170706_195723" size="1.000000 0.562500" />
+    <ImageTarget name="Point_2_3_20170706_190614" size="1.000000 0.562500" />
+    <ImageTarget name="Point_2_2_20170706_115809" size="1.000000 0.562500" />
+    <ImageTarget name="Point_2_1_20170706_115805" size="1.000000 0.562500" />
+    <ImageTarget name="Point_1_6_20170706_195736" size="1.000000 0.562500" />
+    <ImageTarget name="Point_1_5_20170706_190007" size="1.000000 0.562500" />
+    <ImageTarget name="Point_1_4_20170706_115741" size="1.000000 0.562500" />
+    <ImageTarget name="Point_1_3_20170706_115715" size="1.000000 0.562500" />
+    <ImageTarget name="Point_1_2_20170706_115711" size="1.000000 0.562500" />
+    <ImageTarget name="Point_1_1_20170614_111004_summer_clouds" size="1.000000 0.562500" />
+    <ImageTarget name="Point_0" size="1.000000 1.455546" />
+  </Tracking>
+</QCARConfig>
