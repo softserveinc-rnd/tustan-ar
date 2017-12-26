@@ -6,7 +6,11 @@ How we made it: [Article](./Tustan%20AR%20Matching.md)
 
 Links: [Play Market](https://play.google.com/store/apps/details?id=com.softserve.tustanar), [App Store](https://itunes.apple.com/ua/app/tustanar/id1283043687?mt=8)
 
-<img src="./article-src/Point_1.jpeg" style="max-width: 768px" alt="Two big stones on the top of hill.">
+## Demos
+
+[![Tustan AR Demo @ WARP 1 Event @ UCU](https://img.youtube.com/vi/OBeoiyIr75M/0.jpg)](https://www.youtube.com/watch?v=OBeoiyIr75M)
+
+[![warp tustan sxsw cut1](https://img.youtube.com/vi/ph_UmJngLQ8/0.jpg)](https://www.youtube.com/watch?v=ph_UmJngLQ8)
 
 ## Requirements
 
@@ -41,6 +45,7 @@ For previous Unity versions you must download Vuforia manually from Vuforia [web
 
 Now you can build and run the project!
 
+<img src="./article-src/Point_1.jpeg" style="max-width: 768px" alt="Two big stones on the top of hill.">
 (By the way, you can test the app, pointing phone camera to the image above. :))
 
 ### Enable iOS plugin
